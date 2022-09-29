@@ -166,7 +166,7 @@ Hours: 30
 
 ## 2022-08-29 -- 2022-09-04
 
-Hours: 16
+Hours: 30
 
 **Meetings:**
 
@@ -196,17 +196,7 @@ Hours: 30
 
 ## 2022-09-19 -- 2022-09-25
 
-Hours: 20
-
-**Meetings:**
-
-**Learning:**
-
-**Worked on packages:**
-
-## 2022-09-26 -- 2022-09-30
-
-Hours: 30
+Hours: 10
 
 **Meetings:**
 
