@@ -149,7 +149,7 @@ Hours: 38
 
 ## 2022-08-22 -- 2022-08-28
 
-Hours: 17
+Hours: 30
 
 **Meetings:**
 * Public Lecture: Hydra, Nix's CI
@@ -166,7 +166,7 @@ Hours: 17
 
 ## 2022-08-29 -- 2022-09-04
 
-Hours:
+Hours: 16
 
 **Meetings:**
 
@@ -176,7 +176,7 @@ Hours:
 
 ## 2022-09-05 -- 2022-09-11
 
-Hours:
+Hours:20
 
 **Meetings:**
 
@@ -186,7 +186,7 @@ Hours:
 
 ## 2022-09-12 -- 2022-09-18
 
-Hours:
+Hours: 30
 
 **Meetings:**
 
@@ -196,7 +196,7 @@ Hours:
 
 ## 2022-09-19 -- 2022-09-25
 
-Hours:
+Hours: 20
 
 **Meetings:**
 
@@ -206,7 +206,7 @@ Hours:
 
 ## 2022-09-26 -- 2022-09-30
 
-Hours:
+Hours: 30
 
 **Meetings:**
 
