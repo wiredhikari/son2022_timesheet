@@ -184,19 +184,9 @@ Hours:20
 
 **Worked on packages:**
 
-## 2022-09-12 -- 2022-09-18
+## 2022-09-12 -- 2022-09-25
 
-Hours: 30
-
-**Meetings:**
-
-**Learning:**
-
-**Worked on packages:**
-
-## 2022-09-19 -- 2022-09-25
-
-Hours: 10
+Hours: 40
 
 **Meetings:**
 
