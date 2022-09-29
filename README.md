@@ -171,34 +171,36 @@ Hours: 30
 
 **Meetings:**
 * Weekly Team session
-* 
+* Michiel Leenaars - The Significance of Reproducible Software in International R&D 
 
 **Learning:**
 
 **Worked on packages:**
-
-## 2022-09-05 -- 2022-09-11
-
-Hours: 20
-
-**Meetings:**
-
-* Meeting with a-kenji
-* 
-
-**Learning:**
-
-**Worked on packages:**
-
-## 2022-09-12 -- 2022-09-25
+3
+## 2022-09-05 -- 2022-09-18
 
 Hours: 40
 
 **Meetings:**
-* Pair Programming
+
+* Meeting with a-kenji
 * John Ericson's Nix x IPFS talk
-* 
+* Konrad Hinsen - Nix/Guix and Reproducible Science
 
 **Learning:**
 
 **Worked on packages:**
+2
+## 2022-09-19 -- 2022-09-30
+
+Hours: 20
+
+**Meetings:**
+* Pair Programming
+* Luc Perkins - Real World DevOps with Nix
+* Connor Brewster - The Road to Nix at Replit 
+
+**Learning:**
+
+**Worked on packages:**
+3
