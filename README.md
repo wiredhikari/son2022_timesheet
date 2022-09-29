@@ -153,6 +153,7 @@ Hours: 30
 
 **Meetings:**
 * Public Lecture: Hydra, Nix's CI
+* Weekly Team session
 
 **Learning:**
 * Hydra, Nix's CI
@@ -169,6 +170,8 @@ Hours: 30
 Hours: 30
 
 **Meetings:**
+* Weekly Team session
+* 
 
 **Learning:**
 
@@ -176,9 +179,12 @@ Hours: 30
 
 ## 2022-09-05 -- 2022-09-11
 
-Hours:20
+Hours: 20
 
 **Meetings:**
+
+* Meeting with a-kenji
+* 
 
 **Learning:**
 
@@ -189,6 +195,9 @@ Hours:20
 Hours: 40
 
 **Meetings:**
+* Pair Programming
+* John Ericson's Nix x IPFS talk
+* 
 
 **Learning:**
 
