@@ -159,6 +159,8 @@ Hours: 30
 
 
 **Worked on packages:**
+* Sylk Mobile
+  * Package [python3-otr](https://github.com/NixOS/nixpkgs/pull/188015)
 * GNUNet Messenger
     * Triage
 * Entire SiP Stack
@@ -180,11 +182,16 @@ Hours: 30
 * Mob Programming
 
 **Worked on packages:**
+
 * NixOS-Container
   * Continued Documentation of [nixos-container](https://hackmd.io/4bVSA0uWTPGEh9ZN54fGbQ)
-- Triage
+
+* Wassabi
+  * https://github.com/ngi-nix/ngi/issues/256 
+
 * ocaml-psi
   * 
+
 ## 2022-09-05 -- 2022-09-18
 
 Hours: 40
@@ -198,8 +205,27 @@ Hours: 40
 
 **Learning:**
 
+* Running nix-darwin with `OSX-KVM`
+* 
+
 **Worked on packages:**
-- Triage
+
+* NextCLoud
+  * General Triage
+  * Curated the schema and list of packages needed to be packaged
+
+* Package 1
+  * 
+
+* Package 2
+  * 
+
+* GNUNet Messenger
+  * General Triage
+  * Work now taken care by @cab404 and @nunop 
+
+* Package 3
+  * 
 
 ## 2022-09-19 -- 2022-09-30
 
@@ -215,8 +241,11 @@ Hours: 20
 * Github Actions for rust based packages
 
 **Worked on packages:**
+
 * Wiredguard Rust Implementation
   * Worked on Porting Wireguard from `buildRustPackage` to `crate2nix`.
   * Schema for Github Actions
+
 * Wrapping up issues and creation of timesheet
+
 * Triage of Left Packages
