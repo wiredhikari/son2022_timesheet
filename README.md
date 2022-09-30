@@ -141,9 +141,6 @@ Hours: 38
     * Made a sub-flake for bloomf dependency
 * NLNet packages
     * Triage on Rust based packages.
-* Entire SiP Stack
-    * Pair Programmed in packaging OpenSIPS.
-    * Helped in Packaging some dependencies.
 * Fractal (Pair Programmed)
     * Worked on the flake for the nightly version: https://github.com/ngi-nix/fractal
 
@@ -154,6 +151,7 @@ Hours: 30
 **Meetings:**
 * Public Lecture: Hydra, Nix's CI
 * Weekly Team session
+* Pair Programming with Yureien
 
 **Learning:**
 * Hydra, Nix's CI
@@ -163,8 +161,9 @@ Hours: 30
 **Worked on packages:**
 * GNUNet Messenger
     * Triage
-
-
+* Entire SiP Stack
+    * Pair Programmed in packaging OpenSIPS.
+    * Helped in Packaging some dependencies.
 ## 2022-08-29 -- 2022-09-04
 
 Hours: 30
@@ -172,11 +171,19 @@ Hours: 30
 **Meetings:**
 * Weekly Team session
 * Michiel Leenaars - The Significance of Reproducible Software in International R&D 
+* Pair Programming with a-kenji
 
 **Learning:**
+* Testing nixos-containers
+* How documentation in Nix toolchains work
+* Mob Programming
 
 **Worked on packages:**
-3
+* NixOS-Container
+  * Continued Documentation of [nixos-container](https://hackmd.io/4bVSA0uWTPGEh9ZN54fGbQ)
+- Triage
+* ocaml-psi
+  * 
 ## 2022-09-05 -- 2022-09-18
 
 Hours: 40
@@ -184,23 +191,25 @@ Hours: 40
 **Meetings:**
 
 * Meeting with a-kenji
+* Pair Programming
 * John Ericson's Nix x IPFS talk
 * Konrad Hinsen - Nix/Guix and Reproducible Science
 
 **Learning:**
 
 **Worked on packages:**
-2
+- Triage
+
 ## 2022-09-19 -- 2022-09-30
 
 Hours: 20
 
 **Meetings:**
-* Pair Programming
+* Pair Programming with Yureien
 * Luc Perkins - Real World DevOps with Nix
 * Connor Brewster - The Road to Nix at Replit 
 
 **Learning:**
 
 **Worked on packages:**
-3
+Future Plans
