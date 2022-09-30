@@ -164,6 +164,7 @@ Hours: 30
 * Entire SiP Stack
     * Pair Programmed in packaging OpenSIPS.
     * Helped in Packaging some dependencies.
+  
 ## 2022-08-29 -- 2022-09-04
 
 Hours: 30
@@ -210,6 +211,12 @@ Hours: 20
 * Connor Brewster - The Road to Nix at Replit 
 
 **Learning:**
+* crate2nix
+* Github Actions for rust based packages
 
 **Worked on packages:**
-Future Plans
+* Wiredguard Rust Implementation
+  * Worked on Porting Wireguard from `buildRustPackage` to `crate2nix`.
+  * Schema for Github Actions
+* Wrapping up issues and creation of timesheet
+* Triage of Left Packages
