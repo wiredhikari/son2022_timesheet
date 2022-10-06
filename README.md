@@ -169,7 +169,7 @@ Hours: 30
   
 ## 2022-08-29 -- 2022-09-04
 
-Hours: 30
+Hours: 40
 
 **Meetings:**
 * Weekly Team session
@@ -187,14 +187,15 @@ Hours: 30
   * Continued Documentation of [nixos-container](https://hackmd.io/4bVSA0uWTPGEh9ZN54fGbQ)
 
 * Wassabi
-  * https://github.com/ngi-nix/ngi/issues/256 
+  * General Triage
+  * WOrked on the [issue](https://github.com/ngi-nix/ngi/issues/256)
 
 * ocaml-psi
-  * 
+  * Wrapped up the pending work
 
 ## 2022-09-05 -- 2022-09-18
 
-Hours: 40
+Hours: 20
 
 **Meetings:**
 
@@ -206,7 +207,8 @@ Hours: 40
 **Learning:**
 
 * Running nix-darwin with `OSX-KVM`
-* 
+* NodeJS on Nix
+* Gitlab actions for cachix
 
 **Worked on packages:**
 
@@ -214,22 +216,16 @@ Hours: 40
   * General Triage
   * Curated the schema and list of packages needed to be packaged
 
-* Package 1
-  * 
-
-* Package 2
-  * 
-
 * GNUNet Messenger
   * General Triage
   * Work now taken care by @cab404 and @nunop 
 
-* Package 3
-  * 
+* NixOS-Container
+  * Continued Documentation of [nixos-container](https://hackmd.io/4bVSA0uWTPGEh9ZN54fGbQ)
 
 ## 2022-09-19 -- 2022-09-30
 
-Hours: 20
+Hours: 30
 
 **Meetings:**
 * Pair Programming with Yureien
