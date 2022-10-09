@@ -186,9 +186,9 @@ Hours: 40
 * NixOS-Container
   * Continued Documentation of [nixos-container](https://hackmd.io/4bVSA0uWTPGEh9ZN54fGbQ)
 
-* Wassabi
+* Waasabi
   * General Triage
-  * WOrked on the [issue](https://github.com/ngi-nix/ngi/issues/256)
+  * Worked on the [issue](https://github.com/ngi-nix/ngi/issues/256)
 
 * ocaml-psi
   * Wrapped up the pending work
