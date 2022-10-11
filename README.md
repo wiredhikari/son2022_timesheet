@@ -175,6 +175,8 @@ Hours: 40
 * Weekly Team session
 * Michiel Leenaars - The Significance of Reproducible Software in International R&D 
 * Pair Programming with a-kenji
+* Pair Programming with Yawar
+* Pair Programming with Yurein
 
 **Learning:**
 * Testing nixos-containers
@@ -212,7 +214,7 @@ Hours: 20
 
 **Worked on packages:**
 
-* NextCLoud
+* NextCloud
   * General Triage
   * Curated the schema and list of packages needed to be packaged
 
