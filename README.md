@@ -190,7 +190,11 @@ Hours: 40
 
 * Waasabi
   * General Triage
-  * Worked on the [issue](https://github.com/ngi-nix/ngi/issues/256)
+  * Worked on the [issue](https://github.com/ngi-nix/ngi/issues/256) (not completed yet)
+
+* Etherpad
+  * Pair Programmed with yawar
+  * Used dream2nix and flakes to package [etherpad](https://github.com/ngi-nix/Etherpad_nix/blob/master/flake.nix)
 
 * ocaml-psi
   * Wrapped up the pending work
