@@ -221,7 +221,8 @@ Hours: 20
 * NextCloud
   * General Triage
   * Curated the schema and list of packages needed to be packaged
-
+  * Will be completed post Summer of Nix
+  
 * GNUNet Messenger
   * General Triage
   * Work now taken care by @cab404 and @nunop 
