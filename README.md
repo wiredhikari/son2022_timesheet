@@ -245,7 +245,6 @@ Hours: 30
 **Worked on packages:**
 
 * Wiredguard Rust Implementation
-  * Worked on Porting Wireguard from `buildRustPackage` to `crate2nix`.
   * Schema for Github Actions
 
 * Wrapping up issues and creation of timesheet
