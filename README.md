@@ -198,6 +198,9 @@ Hours: 40
 
 * ocaml-psi
   * Wrapped up the pending work
+  
+* Sylk Server
+  * Bugfixes in the PR
 
 ## 2022-09-05 -- 2022-09-18
 
@@ -245,9 +248,13 @@ Hours: 30
 
 **Worked on packages:**
 
+* Sylk Server
+  * Bug Fixes and Improvements
+
 * Wiredguard Rust Implementation
   * Schema for Github Actions
 
 * Wrapping up issues and creation of timesheet
 
-* Triage of Left Packages
+* Triage of Left Packages, will be completed in upcoming weeks
+ 
